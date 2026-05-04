@@ -12,7 +12,7 @@
         "movie",
         "tv"
       ],
-      "filename": "src/providers/moviesdrive.js",
+      "filename": "providers/moviesdrive.js",
       "enabled": true,
       "formats": [
         "mp4",
@@ -33,7 +33,7 @@
         "movie",
         "tv"
       ],
-      "filename": "src/providers/hianime.js",
+      "filename": "providers/hianime.js",
       "enabled": true,
       "formats": [
         "mp4",
@@ -54,7 +54,7 @@
         "movie",
         "tv"
       ],
-      "filename": "src/providers/xdmovies.js",
+      "filename": "providers/xdmovies.js",
       "enabled": false,
       "formats": [
         "mp4",
